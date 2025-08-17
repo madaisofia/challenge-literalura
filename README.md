@@ -1,6 +1,6 @@
 <h1 align="center"> <strong>Challenge LiterAlura</strong></h1>
 <p align="center">
-  <img src="" alt="Insignia">
+  <img src="Literalura/Badge-Literalura.png" alt="Insignia">
 </p>
   <p align="center">
   <img src="https://img.shields.io/badge/STATUS-EN%20DESARROLLO-green" alt="Estado del proyecto">
